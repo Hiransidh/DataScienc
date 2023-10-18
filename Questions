@@ -1,0 +1,20 @@
+# Data handling using pandas
+pandas series,pandas dataframe, csv file import,print info, head of 5, tail of 2, desc, iloc, shape, 
+dropna      
+duplicated(any)
+drop duplicates
+load dataset(iris)
+print descr
+target name
+feature name
+
+## Program to impliment jnn classification using any standard dataset available in the public domain and find the accuracy of the algorithm
+read iris
+info
+desc
+head
+check duplications
+dropna
+knn code
+
+##Program to implement naive bayes alogoritm using any standard dataset available in the public domain and find the accuracy of the algorithm
